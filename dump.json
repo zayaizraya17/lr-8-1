@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "\u043e\u0434\u0443\u0432\u0430\u043d\u0447\u0438\u043a",
+        "latin_name": "Tar\u00e1xacum officin\u00e1le",
+        "is_red_book_flower": "False",
+        "price": "133"
+    },
+    {
+        "id": 2,
+        "name": "\u042f\u0442\u0440\u044b\u0448\u043d\u0438\u043a",
+        "latin_name": "\u00d3rchis m\u00e1scula",
+        "is_red_book_flower": "True",
+        "price": "140"
+    },
+    {
+        "id": 3,
+        "name": "\u0416\u0435\u043b\u0442\u0430\u044f \u043a\u0443\u0432\u0448\u0438\u043d\u043a\u0430",
+        "latin_name": "N\u00faphar l\u00fatea",
+        "is_red_book_flower": "True",
+        "price": "---"
+    },
+    {
+        "id": 4,
+        "name": "\u0445\u0440\u0438\u0437\u0430\u043d\u0442\u0435\u043c\u044b",
+        "latin_name": "Chrys\u00e1nthemum",
+        "is_red_book_flower": "False",
+        "price": "136"
+    },
+    {
+        "id": 5,
+        "name": "\u0411\u0435\u043b\u043b\u0430\u0434\u043e\u043d\u043d\u0430",
+        "latin_name": "Atropa belladonna",
+        "is_red_book_flower": "True",
+        "price": "310"
+    }
+]
